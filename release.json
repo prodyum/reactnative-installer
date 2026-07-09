@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "8704aee745fe3e6ebf16d78a69c9d1ff49192644a6fdda2250f5a32893b62a8a",
+  "generatedAtUtc": "2026-07-09T21:28:41.7488136Z",
+  "mode": "dist",
+  "appDisplayName": "reactnative",
+  "bundleId": "com.prodyum.reactnative",
+  "version": "1.0.0",
+  "buildNumber": "1",
+  "ipaFileName": "reactnative-install.ipa",
+  "ipaSha256": "d13b4c8758b2d9783a2d5b2fd3b7519e64c90eb9cceb30dae16497d6c540b338",
+  "manifestSha256": "323460c7786d03db33a00fac4c005f6fa0fde8d897bfa12597e6acaa10ce314d",
+  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29051295561",
+  "pagesUrl": "https://prodyum.github.io/reactnative-installer/",
+  "manifestUrl": "https://prodyum.github.io/reactnative-installer/manifest.plist",
+  "ipaUrl": "https://prodyum.github.io/reactnative-installer/ipa/reactnative-install.ipa"
+}
