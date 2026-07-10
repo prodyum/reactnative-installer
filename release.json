@@ -1,17 +1,22 @@
 {
   "schemaVersion": 1,
-  "releaseId": "8704aee745fe3e6ebf16d78a69c9d1ff49192644a6fdda2250f5a32893b62a8a",
-  "generatedAtUtc": "2026-07-09T21:28:41.7488136Z",
+  "releaseId": "02576a780e5928a2c6a62e6c3e285c5908e1d13efda95cbb624c4e9121d9c4c8",
+  "generatedAtUtc": "2026-07-10T00:03:25.1916087Z",
   "mode": "dist",
   "appDisplayName": "reactnative",
   "bundleId": "com.prodyum.reactnative",
   "version": "1.0.0",
   "buildNumber": "1",
   "ipaFileName": "reactnative-install.ipa",
-  "ipaSha256": "d13b4c8758b2d9783a2d5b2fd3b7519e64c90eb9cceb30dae16497d6c540b338",
+  "ipaSha256": "ed79622caa8c88f60ac5afd365cb4430da31b6fd46456f4a6e8a22d3df7f74f1",
   "manifestSha256": "323460c7786d03db33a00fac4c005f6fa0fde8d897bfa12597e6acaa10ce314d",
-  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29051295561",
+  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29058696524",
   "pagesUrl": "https://prodyum.github.io/reactnative-installer/",
   "manifestUrl": "https://prodyum.github.io/reactnative-installer/manifest.plist",
-  "ipaUrl": "https://prodyum.github.io/reactnative-installer/ipa/reactnative-install.ipa"
+  "ipaUrl": "https://prodyum.github.io/reactnative-installer/ipa/reactnative-install.ipa",
+  "commitSha": "d094afa4edc17405983b2013be9aea3b029f725d",
+  "sourceFingerprint": "affded9b086ca41cd2f5d8e8ee6768076c24f81b5f1fed0594bfc3d3cd21bc81",
+  "cacheSchemaVersion": "1",
+  "deviceHash": "75cf38476b465ffbd9a8d843a58c137e7ae80e063494373fbeb18f5cf8154bc0",
+  "artifactMetadataFile": "reactnative-install.metadata.json"
 }
